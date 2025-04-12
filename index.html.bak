@@ -49,12 +49,15 @@ ul {text-align: center;}
 <div class="row">
   <div class="column">
     <img src="img_1.jpg" alt="Career" style="width:50%" border="20px solid #555">
+	<p><a href="images/Gallery1.mp4" target="_blank">My Work Activity</a></p>
   </div>
   <div class="column">
-    <img src="img_2.jpg" alt="Lifestyle" style="width:50%">
+    <img src="img_2.jpg" alt="Lifestyle" style="width:50%" border="20px solid #555">
+	<p><a href="docs/Gallery2.mp4" target="_blank">My Lifestyle Activity</a></p>
   </div>
   <div class="column">
-    <img src="img_3.jpg" alt="Passion" style="width:50%">
+    <img src="img_3.jpg" alt="Passion" style="width:50%" border="20px solid #555">
+	<p><a href="docs/my_essay.pdf" target="_blank">My Passion Activity</a></p>
   </div>
 </div>
 	
